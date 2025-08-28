@@ -1,4 +1,24 @@
-body{
-
-    color: blue;
+.foto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.perfil{
+    height: 400px;
+    width: 500px;
+}
+.nome1{
+    color: #ba55d3;
+}
+.perfil2{
+    height:400px;
+    width: 500px;
+}
+.nome2{
+    color: #00d1d4;
+}
+.foto2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
